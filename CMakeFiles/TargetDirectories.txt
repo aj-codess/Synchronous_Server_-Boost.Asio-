@@ -1,0 +1,3 @@
+/Users/macbook/Documents/Projects/server_engine/sync_server/CMakeFiles/main.dir
+/Users/macbook/Documents/Projects/server_engine/sync_server/CMakeFiles/edit_cache.dir
+/Users/macbook/Documents/Projects/server_engine/sync_server/CMakeFiles/rebuild_cache.dir
